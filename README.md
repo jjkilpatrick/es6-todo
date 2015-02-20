@@ -4,8 +4,8 @@ A test implementation of the Backbone Todo app rewritten to use ES6 modules and 
 
 ## Getting Started
 	1. If using Chrome "Enable Experimental JavaScript" by visiting chrome://flags
-	1. Run Node server.js to start the Node server
-	2. Visit http://localhost:8001
+	2. Run Node server.js to start the Node server
+	3. Visit http://localhost:8001
 
 ## Bower
 
