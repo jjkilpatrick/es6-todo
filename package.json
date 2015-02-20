@@ -1,0 +1,14 @@
+{
+  "name": "ES6-TODO",
+  "title": "ES6 Todo",
+  "description": "ES6 Todo",
+  "version": "0.0.1",
+  "author": {
+    "name": "John Kilpatrick",
+    "email": "john.kilpatrick@analogfolk.com"
+  },
+  "main": "server",
+  "devDependencies": {
+    "express": "3.x"
+  }
+}
